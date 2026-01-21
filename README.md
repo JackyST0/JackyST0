@@ -2,10 +2,8 @@
 
 <!-- 欢迎语 -->
 <a href="https://github.com/JackyST0">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hey+there%2C+fellow+developers!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;I'm+%E5%A4%A7%E8%9A%8A%E4%BB%94%E4%B8%B6" alt="Welcome" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hey+there%2C+fellow+developers!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Welcome" />
 </a>
-
-<br>
 
 <!-- 贪吃蛇动画 -->
 <picture>
@@ -20,20 +18,14 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5tOTZkYzVveTM5bDl1aGllZXg2amw5NXI3eXdhamUxcDljajFxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7STAwvEml1eIf0FEq/giphy.gif" width="280" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5tOTZkYzVveTM5bDl1aGllZXg2amw5NXI3eXdhamUxcDljajFxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7STAwvEml1eIf0FEq/giphy.gif" width="250" />
 
-<br>
+🎯 **Backend Developer focused on building stable & efficient systems**
 
-🎯 **专注服务端开发，构建稳定高效的系统架构**
-
-<br>
-
-- 🔭 热衷于后端技术探索与实践
-- 🌱 持续学习云原生与分布式系统
-- 💡 追求代码优雅与系统性能的平衡
-- 🚀 相信技术可以改变世界
-
-<br>
+- 🔭 Passionate about backend technology exploration
+- 🌱 Learning Cloud Native & Distributed Systems
+- 💡 Pursuing elegant code and system performance
+- 🚀 Believe technology can change the world
 
 > *"Write code that writes code."*
 
