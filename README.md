@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5tOTZkYzVveTM5bDl1aGllZXg2amw5NXI3eXdhamUxcDljajFxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7STAwvEml1eIf0FEq/giphy.gif" width="250" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5tOTZkYzVveTM5bDl1aGllZXg2amw5NXI3eXdhamUxcDljajFxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7STAwvEml1eIf0FEq/giphy.gif" width="200" />
 
 🎯 **Backend Developer focused on building stable & efficient systems**
 
@@ -27,26 +27,18 @@
 - 💡 Pursuing elegant code and system performance
 - 🚀 Believe technology can change the world
 
+**Tech Stack:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 > *"Write code that writes code."*
-
-<br clear="both" />
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
 
 ---
 
