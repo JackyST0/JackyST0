@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- 欢迎语 -->
+<a href="https://github.com/JackyST0">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hey+there%2C+fellow+developers!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;I'm+%E5%A4%A7%E8%9A%8A%E4%BB%94%E4%B8%B6" alt="Welcome" />
+</a>
+
+<br>
+
 <!-- 贪吃蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackyST0/JackyST0/output/github-snake-dark.svg" />
@@ -13,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" src="https://github.com/WilliamKelly00/WilliamKelly00/raw/main/1_IRGHmiGsa16stedQvIaZfw.gif" width="280" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5tOTZkYzVveTM5bDl1aGllZXg2amw5NXI3eXdhamUxcDljajFxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7STAwvEml1eIf0FEq/giphy.gif" width="280" />
 
 <br>
 
